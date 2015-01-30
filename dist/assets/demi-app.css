@@ -6210,41 +6210,41 @@ button.close {
     display: none !important; }
  }
 
-/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/global */
+/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/global */
 body {
   font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 0.04em; }
 
-/* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/global */
+/* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/global */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Fjalla One', sans-serif; }
 
-/* line 11, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/global */
+/* line 11, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/global */
 .container-fluid {
   max-width: 1100px;
   padding: 0; }
 
-/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
 header {
   padding: 0;
   position: relative;
   background-color: #4C5763; }
-  /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+  /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
   header nav {
     display: none;
     padding: 35px 15px 0 15px;
     height: 240px;
     background-color: #2d343b; }
-    /* line 12, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+    /* line 12, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
     header nav ul {
       margin-bottom: 0;
       padding: 0 0 0 0; }
-      /* line 15, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+      /* line 15, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
       header nav ul li {
         width: 100%;
         height: 45px;
         text-align: center; }
-        /* line 19, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+        /* line 19, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
         header nav ul li a {
           display: block;
           padding: 6px 10px 6px 10px;
@@ -6252,21 +6252,21 @@ header {
           font-size: 1.4em;
           color: #FFFFFF;
           transition: all 100ms ease-in; }
-          /* line 24, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+          /* line 24, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
           header nav ul li a:hover {
             color: #2FD3BF;
             text-decoration: none;
             background-color: #4C5763; }
-          /* line 29, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+          /* line 29, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
           header nav ul li a:active {
             background-color: #313940;
             color: #2FD3BF;
             text-decoration: none;
             border-bottom: 3px solid #2FD3BF; }
-  /* line 42, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+  /* line 42, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
   header .menu-button {
     padding-left: 15px; }
-    /* line 44, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+    /* line 44, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
     header .menu-button button {
       padding: 36px 10px 36px 10px;
       height: 110px;
@@ -6280,19 +6280,19 @@ header {
       -webkit-transition: all 100ms ease-in;
       -o-transition: all 100ms ease-in;
       transition: all 100ms ease-in; }
-      /* line 53, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 53, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       header .menu-button button:hover {
         background-color: #2d343b;
         color: #2FD3BF;
         border-bottom: 3px solid #2FD3BF; }
-      /* line 61, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 61, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       header .menu-button button span {
         margin-right: 10px; }
-  /* line 48, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+  /* line 48, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
   header .logout {
     text-align: right;
     padding: 45px 25px 0 0; }
-    /* line 51, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+    /* line 51, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
     header .logout a {
       margin-left: 30px;
       font-family: 'Source Sans Pro', sans-serif;
@@ -6300,184 +6300,184 @@ header {
       font-weight: 300;
       font-style: normal;
       color: #FFFFFF; }
-      /* line 55, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+      /* line 55, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
       header .logout a .glyphicon {
         margin: 2px 5px 0 0;
         font-size: 0.8em; }
-      /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+      /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
       header .logout a:hover {
         color: #2FD3BF; }
 
 @media only screen and (min-width: 480px) {
-  /* line 69, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+  /* line 69, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
   header .menu-button button {
     font-size: 1.2em; }
-  /* line 73, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+  /* line 73, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
   header .settings, header .logout {
     padding-top: 45px; }
-    /* line 75, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+    /* line 75, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
     header .settings a, header .logout a {
       font-size: 1.2em; }
  }
 
 @media only screen and (min-width: 768px) {
-  /* line 84, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+  /* line 84, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
   header nav {
     display: inline-block;
     height: 113px;
     padding: 0;
     background-color: #4C5763; }
-    /* line 89, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+    /* line 89, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
     header nav ul {
       padding: 0 0 0 15px; }
-      /* line 91, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+      /* line 91, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
       header nav ul li {
         display: inline-block;
         width: 108px;
         height: 110px; }
-        /* line 95, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+        /* line 95, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
         header nav ul li a {
           padding: 46px 10px 36px 10px; }
-          /* line 97, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+          /* line 97, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
           header nav ul li a:hover {
             background-color: #2d343b;
             border-bottom: 3px solid #2FD3BF; }
-        /* line 102, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/header */
+        /* line 102, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/header */
         header nav ul li .active {
           border-bottom: 3px solid #FFFFFF; }
  }
 
-/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
 .profile {
   background-color: #2d343b;
   padding: 35px 15px 35px 15px; }
-  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .profile-image {
     margin-bottom: 35px;
     padding: 0 15px 0 15px; }
-    /* line 8, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+    /* line 8, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
     .profile .profile-image img {
       display: block;
       margin: auto;
       width: 100%;
       max-width: 270px;
       border-radius: 50%; }
-  /* line 16, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 16, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .profile-info {
     position: relative;
     margin-bottom: 35px;
     height: 270px; }
-    /* line 20, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+    /* line 20, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
     .profile .profile-info ul {
       list-style: none;
       padding-left: 0;
       text-align: center; }
-      /* line 25, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 25, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .profile-info ul li p {
         padding-bottom: 2px;
         font-size: 1.2em;
         font-weight: 200;
         color: #e6e6e6; }
-        /* line 30, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 30, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .profile-info ul li p a {
           display: inline-block;
           font-weight: 200;
           color: #e6e6e6;
           text-decoration: underline;
           cursor: pointer; }
-          /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+          /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
           .profile .profile-info ul li p a:hover {
             color: #2FD3BF; }
-      /* line 41, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 41, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .profile-info ul li .title {
         margin-bottom: 0;
         font-size: 1em;
         font-weight: 200;
         color: #6d7d8e; }
-  /* line 50, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 50, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .stats-wide {
     padding-bottom: 10px; }
-    /* line 53, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+    /* line 53, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
     .profile .stats-wide:last-of-type {
       padding-bottom: 0; }
-    /* line 56, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+    /* line 56, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
     .profile .stats-wide .stats-wide-inner {
       position: relative;
       padding: 15px;
       height: 100px;
       background-color: #4C5763;
       transition: all 200ms ease-in; }
-      /* line 62, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 62, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .stats-wide .stats-wide-inner:hover {
         background-color: #24292f;
         cursor: pointer; }
-        /* line 65, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 65, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-wide .stats-wide-inner:hover .stats-content {
           color: #2FD3BF; }
-        /* line 68, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 68, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-wide .stats-wide-inner:hover .glyphicon {
           color: #2FD3BF; }
-      /* line 72, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 72, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .stats-wide .stats-wide-inner .stats-content {
         margin: 0 auto;
         display: inline-block;
         font-family: 'Fjalla One', sans-serif;
         font-size: 3.8em;
         color: #f7f7f7; }
-        /* line 76, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 76, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-wide .stats-wide-inner .stats-content .stats-number {
           display: inline-block; }
-        /* line 79, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 79, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-wide .stats-wide-inner .stats-content .stats-text {
           display: inline-block;
           font-size: 0.38em;
           line-height: 0.7em; }
-      /* line 85, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 85, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .stats-wide .stats-wide-inner .glyphicon {
         position: absolute;
         top: 10px;
         right: 10px;
         font-size: 1em;
         color: #2d343b; }
-  /* line 94, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 94, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .stats-half {
     padding-bottom: 10px; }
-    /* line 97, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+    /* line 97, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
     .profile .stats-half:nth-last-of-type(-n+2) {
       padding-bottom: 0; }
-    /* line 100, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+    /* line 100, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
     .profile .stats-half .stats-half-inner {
       position: relative;
       padding: 15px;
       height: 75px;
       background-color: #4C5763;
       transition: all 200ms ease-in; }
-      /* line 106, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 106, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .stats-half .stats-half-inner:hover {
         background-color: #24292f;
         cursor: pointer; }
-        /* line 109, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 109, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-half .stats-half-inner:hover .stats-content {
           color: #2FD3BF; }
-        /* line 112, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 112, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-half .stats-half-inner:hover .glyphicon {
           color: #2FD3BF; }
-      /* line 116, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 116, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .stats-half .stats-half-inner .stats-content {
         margin: 0 auto;
         display: inline-block;
         font-family: 'Fjalla One', sans-serif;
         font-size: 2.6em;
         color: #f7f7f7; }
-        /* line 120, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 120, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-half .stats-half-inner .stats-content .stats-number {
           display: inline-block; }
-        /* line 123, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+        /* line 123, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
         .profile .stats-half .stats-half-inner .stats-content .stats-text {
           display: inline-block;
           font-size: 0.3em;
           line-height: 0.6em; }
-      /* line 129, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+      /* line 129, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
       .profile .stats-half .stats-half-inner .glyphicon {
         position: absolute;
         top: 10px;
@@ -6486,43 +6486,43 @@ header {
         color: #2d343b; }
 
 @media only screen and (min-width: 480px) {
-  /* line 146, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 146, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .stats-half .stats-half-inner .stats-content .stats-text {
     font-size: 0.38em; }
  }
 
 @media only screen and (min-width: 768px) {
-  /* line 159, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 159, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .profile-info ul {
     text-align: left; }
  }
 
 @media only screen and (min-width: 992px) {
-  /* line 169, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 169, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .profile-image, .profile .profile-info {
     margin-bottom: 0px; }
-  /* line 175, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 175, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .stats-half .stats-half-inner .stats-content .stats-text {
     font-size: 0.36em; }
  }
 
 @media only screen and (min-width: 1200px) {
-  /* line 190, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/profile */
+  /* line 190, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/profile */
   .profile .stats-half .stats-half-inner .stats-content .stats-text {
     font-size: 0.4em; }
  }
 
-/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
 .filter-module {
   padding: 35px 15px 35px 15px;
   background-color: #24292f; }
-  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
   .filter-module .button-wrapper {
     padding-top: 54px; }
-    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
     .filter-module .button-wrapper:nth-of-type(2) {
       padding-top: 0px; }
-    /* line 10, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+    /* line 10, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
     .filter-module .button-wrapper p {
       margin: 0 0 30px 0;
       width: 100%;
@@ -6532,15 +6532,15 @@ header {
       font-weight: 300;
       font-style: normal;
       color: #4C5763; }
-    /* line 16, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+    /* line 16, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
     .filter-module .button-wrapper ul {
       padding: 12px 0 12px 0;
       width: 100%; }
-      /* line 19, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+      /* line 19, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
       .filter-module .button-wrapper ul li {
         padding: 3px 10px 3px 10px;
         text-align: center; }
-        /* line 22, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+        /* line 22, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
         .filter-module .button-wrapper ul li a {
           font-family: 'Source Sans Pro', sans-serif;
           font-size: 1.2em;
@@ -6550,10 +6550,10 @@ header {
           width: 100%;
           height: 100%;
           outline: none; }
-        /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+        /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
         .filter-module .button-wrapper ul li:hover {
           background-color: #C4F478; }
-    /* line 37, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+    /* line 37, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
     .filter-module .button-wrapper button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6570,20 +6570,20 @@ header {
       transition: all 80ms ease-in;
       font-weight: 300;
       font-size: 1em; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .filter-module .button-wrapper button:hover {
         background-color: #eff4f6;
         border-color: #bed3db;
         border-bottom-color: #aec7d1; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .filter-module .button-wrapper button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-      /* line 41, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+      /* line 41, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
       .filter-module .button-wrapper button .glyphicon {
         font-size: 0.84em; }
-    /* line 45, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+    /* line 45, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
     .filter-module .button-wrapper .select {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6600,58 +6600,58 @@ header {
       transition: all 80ms ease-in;
       font-weight: 300;
       font-size: 1em; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .filter-module .button-wrapper .select:hover {
         background-color: #576471;
         border-color: #363e46;
         border-bottom-color: #2b3138; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .filter-module .button-wrapper .select:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
 
 @media only screen and (min-width: 480px) {
-  /* line 56, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+  /* line 56, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
   .filter-module .button-wrapper button {
     font-size: 1.2em; }
-  /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/filter */
+  /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/filter */
   .filter-module .button-wrapper .select {
     font-size: 1.2em; }
  }
 
-/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
 .graph-1 {
   padding: 35px 15px 5px 15px;
   background-color: #2d343b; }
-  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-key {
     color: #FFFFFF; }
-    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
     .graph-1 .graph-key .graph-key-item {
       padding-bottom: 10px; }
-      /* line 10, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 10, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-key .graph-key-item:first-of-type .key-item-swatch {
         background-color: #C64C46; }
-      /* line 15, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 15, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-key .graph-key-item:nth-of-type(2) .key-item-swatch {
         background-color: #E0813B; }
-      /* line 20, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 20, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-key .graph-key-item:nth-of-type(3) .key-item-swatch {
         background-color: #E5BD41; }
-      /* line 25, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 25, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-key .graph-key-item:nth-of-type(4) .key-item-swatch {
         background-color: #3EC173; }
-      /* line 30, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 30, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-key .graph-key-item:nth-of-type(5) .key-item-swatch {
         background-color: #2FD3BF; }
-      /* line 34, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 34, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-key .graph-key-item .key-item-swatch {
         display: inline-block;
         margin-right: 5px;
         width: 12px;
         height: 12px; }
-      /* line 40, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 40, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-key .graph-key-item p {
         display: inline-block;
         font-family: 'Source Sans Pro', sans-serif;
@@ -6659,10 +6659,10 @@ header {
         font-weight: 200;
         font-style: light;
         color: #FFFFFF; }
-  /* line 48, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 48, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-item:nth-of-type(odd) .user-card-small, .graph-1 .graph-item:nth-of-type(odd) .user-stats-small, .graph-1 .graph-item:nth-of-type(odd) .user-graph .user-graph-inner {
     background-color: #414a55; }
-  /* line 52, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 52, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-item .user-card-small {
     margin-bottom: 10px;
     padding: 25px;
@@ -6672,7 +6672,7 @@ header {
     font-weight: 200;
     text-align: center;
     line-height: 1.2em; }
-    /* line 61, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+    /* line 61, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
     .graph-1 .graph-item .user-card-small img {
       display: inline-block;
       margin: auto;
@@ -6680,11 +6680,11 @@ header {
       width: 100%;
       max-width: 126px;
       border-radius: 50%; }
-    /* line 69, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+    /* line 69, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
     .graph-1 .graph-item .user-card-small .user-name {
       font-size: 1.2em;
       font-weight: 400; }
-  /* line 77, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 77, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-item .user-stats-small {
     margin-bottom: 10px;
     padding: 15px;
@@ -6693,100 +6693,100 @@ header {
     color: #FFFFFF;
     text-align: center;
     line-height: 1.6em; }
-    /* line 86, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+    /* line 86, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
     .graph-1 .graph-item .user-stats-small:last-of-type {
       margin-bottom: 0; }
-    /* line 89, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+    /* line 89, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
     .graph-1 .graph-item .user-stats-small .user-stats-title {
       font-weight: 200; }
-    /* line 92, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+    /* line 92, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
     .graph-1 .graph-item .user-stats-small .user-stats-count {
       font-family: 'Fjalla One', sans-serif;
       font-size: 1.4em;
       color: #FFFFFF; }
-  /* line 96, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 96, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-item .user-graph {
     margin-bottom: 30px; }
-    /* line 98, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+    /* line 98, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
     .graph-1 .graph-item .user-graph .user-graph-inner {
       padding: 30px 15px 30px 0;
       height: 230px;
       background-color: #4C5763;
       color: #FFFFFF; }
-      /* line 104, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 104, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-item .user-graph .user-graph-inner .bar:first-of-type {
         height: 34px; }
-        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:first-of-type div:first-of-type {
           display: inline-block;
           height: 34px;
           background-color: #29c0ad;
           border-right: 3px solid #59dccc; }
-        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:first-of-type div:nth-of-type(2) {
           display: inline-block;
           padding: 7px 0 30px 10px;
           height: 34px;
           vertical-align: top;
           font-weight: 200; }
-      /* line 107, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 107, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(2) {
         height: 34px; }
-        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(2) div:first-of-type {
           display: inline-block;
           height: 34px;
           background-color: #38ae68;
           border-right: 3px solid #65cd8f; }
-        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(2) div:nth-of-type(2) {
           display: inline-block;
           padding: 7px 0 30px 10px;
           height: 34px;
           vertical-align: top;
           font-weight: 200; }
-      /* line 110, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 110, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(3) {
         height: 34px; }
-        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(3) div:first-of-type {
           display: inline-block;
           height: 34px;
           background-color: #e2b52b;
           border-right: 3px solid #ebcd6e; }
-        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(3) div:nth-of-type(2) {
           display: inline-block;
           padding: 7px 0 30px 10px;
           height: 34px;
           vertical-align: top;
           font-weight: 200; }
-      /* line 113, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 113, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(4) {
         height: 34px; }
-        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(4) div:first-of-type {
           display: inline-block;
           height: 34px;
           background-color: #dd7325;
           border-right: 3px solid #e79d67; }
-        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(4) div:nth-of-type(2) {
           display: inline-block;
           padding: 7px 0 30px 10px;
           height: 34px;
           vertical-align: top;
           font-weight: 200; }
-      /* line 116, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+      /* line 116, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
       .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(5) {
         height: 34px; }
-        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(5) div:first-of-type {
           display: inline-block;
           height: 34px;
           background-color: #b93f39;
           border-right: 3px solid #d2726d; }
-        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+        /* line 78, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
         .graph-1 .graph-item .user-graph .user-graph-inner .bar:nth-of-type(5) div:nth-of-type(2) {
           display: inline-block;
           padding: 7px 0 30px 10px;
@@ -6795,31 +6795,31 @@ header {
           font-weight: 200; }
 
 @media only screen and (min-width: 480px) {
-  /* line 129, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 129, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-key .graph-key-item p {
     font-size: 0.9em; }
-  /* line 135, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 135, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-item .user-stats-small {
     padding: 30px 15px 15px 15px; }
  }
 
 @media only screen and (min-width: 992px) {
-  /* line 146, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 146, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-key .graph-key-item p {
     font-size: 1em; }
-  /* line 152, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/graph */
+  /* line 152, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/graph */
   .graph-1 .graph-item .user-stats-small {
     padding: 15px; }
  }
 
-/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
 .button-gallery {
   padding: 35px 15px 0 15px;
   background-color: #24292f; }
-  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
   .button-gallery .button-wrapper {
     height: 130px; }
-    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper p {
       margin: 0 0 10px 0;
       width: 100%;
@@ -6830,11 +6830,11 @@ header {
       font-weight: 300;
       font-style: normal;
       color: #4C5763; }
-    /* line 14, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 14, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper button {
       font-weight: 300;
       font-size: 1.2em; }
-    /* line 19, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 19, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:first-of-type button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6849,17 +6849,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:first-of-type button:hover {
         background-color: #cc5f59;
         border-color: #a63833;
         border-bottom-color: #92322d; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:first-of-type button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 24, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 24, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(2) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6874,17 +6874,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(2) button:hover {
         background-color: #576471;
         border-color: #363e46;
         border-bottom-color: #2b3138; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(2) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 29, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 29, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(3) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6899,17 +6899,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(3) button:hover {
         background-color: #51c781;
         border-color: #329a5c;
         border-bottom-color: #2b8751; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(3) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 34, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 34, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(4) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6924,17 +6924,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(4) button:hover {
         background-color: #e8c557;
         border-color: #d6a91d;
         border-bottom-color: #bf971a; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(4) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 39, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 39, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(5) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6949,17 +6949,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(5) button:hover {
         background-color: #44d7c5;
         border-color: #24ab9a;
         border-bottom-color: #209687; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(5) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 44, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 44, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(6) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6974,17 +6974,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(6) button:hover {
         background-color: #e38f51;
         border-color: #c86720;
         border-bottom-color: #b25c1c; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(6) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 49, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 49, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(7) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -6999,17 +6999,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(7) button:hover {
         background-color: #eff4f6;
         border-color: #bed3db;
         border-bottom-color: #aec7d1; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(7) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 54, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 54, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(8) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -7024,17 +7024,17 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(8) button:hover {
         background-color: white;
         border-color: #cfe5e2;
         border-bottom-color: #bedcd8; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(8) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
-    /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+    /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
     .button-gallery .button-wrapper:nth-of-type(9) button {
       padding: 0px 0 0px 0;
       height: 40px;
@@ -7049,31 +7049,31 @@ header {
       -webkit-transition: all 80ms ease-in;
       -o-transition: all 80ms ease-in;
       transition: all 80ms ease-in; }
-      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 31, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(9) button:hover {
         background-color: #384049;
         border-color: #171a1e;
         border-bottom-color: #0c0d0f; }
-      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/mixins */
+      /* line 36, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/mixins */
       .button-gallery .button-wrapper:nth-of-type(9) button:active {
         margin-top: 2px;
         border-width: 1px;
         height: 38px; }
 
 @media only screen and (min-width: 768px) {
-  /* line 69, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/buttons */
+  /* line 69, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/buttons */
   .button-gallery .button-wrapper p {
     font-size: 1.2em; }
  }
 
-/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+/* line 2, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
 .list-module {
   padding: 35px 15px 5px 15px;
   background-color: #2d343b; }
-  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
   .list-module .user-card-med {
     padding-bottom: 30px; }
-    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+    /* line 7, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
     .list-module .user-card-med .user-card-med-inner {
       padding: 30px;
       height: 512px;
@@ -7082,7 +7082,7 @@ header {
       font-weight: 200;
       text-align: center;
       line-height: 1.2em; }
-      /* line 15, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+      /* line 15, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
       .list-module .user-card-med .user-card-med-inner img {
         display: inline-block;
         margin: auto;
@@ -7090,15 +7090,15 @@ header {
         width: 100%;
         max-width: 180px;
         border-radius: 50%; }
-      /* line 23, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+      /* line 23, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
       .list-module .user-card-med .user-card-med-inner .user-name {
         font-size: 1.2em;
         font-weight: 400; }
-      /* line 27, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+      /* line 27, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
       .list-module .user-card-med .user-card-med-inner .donut-chart {
         position: relative;
         margin-top: 15px; }
-        /* line 30, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+        /* line 30, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
         .list-module .user-card-med .user-card-med-inner .donut-chart .completion-percent {
           position: absolute;
           margin: auto;
@@ -7109,35 +7109,35 @@ header {
           width: 90px;
           height: 80px;
           text-align: center; }
-          /* line 40, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+          /* line 40, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
           .list-module .user-card-med .user-card-med-inner .donut-chart .completion-percent p:first-of-type {
             margin-bottom: 5px;
             font-family: 'Fjalla One', sans-serif;
             font-size: 1.4em;
             color: #FFFFFF; }
-  /* line 48, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+  /* line 48, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
   .list-module .pull-right {
     padding: 0; }
-    /* line 50, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+    /* line 50, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
     .list-module .pull-right .user-stats-med {
       padding-bottom: 10px; }
-      /* line 52, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+      /* line 52, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
       .list-module .pull-right .user-stats-med:last-of-type {
         margin-bottom: 20px; }
-        /* line 55, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+        /* line 55, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
         .list-module .pull-right .user-stats-med:last-of-type .user-stats-med-inner:hover {
           background-color: #24292f;
           cursor: pointer; }
-          /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+          /* line 59, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
           .list-module .pull-right .user-stats-med:last-of-type .user-stats-med-inner:hover p {
             color: #2FD3BF; }
-          /* line 62, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+          /* line 62, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
           .list-module .pull-right .user-stats-med:last-of-type .user-stats-med-inner:hover .glyphicon {
             color: #2FD3BF; }
-          /* line 65, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+          /* line 65, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
           .list-module .pull-right .user-stats-med:last-of-type .user-stats-med-inner:hover .link-helper {
             display: inline-block; }
-      /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+      /* line 71, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
       .list-module .pull-right .user-stats-med .user-stats-med-inner {
         position: relative;
         padding: 20px 15px 20px 15px;
@@ -7149,24 +7149,24 @@ header {
         text-align: center;
         line-height: 1.6em;
         transition: all 200ms ease-in; }
-        /* line 83, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+        /* line 83, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
         .list-module .pull-right .user-stats-med .user-stats-med-inner .assignment {
           font-style: normal;
           font-size: 1.2em; }
-        /* line 87, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+        /* line 87, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
         .list-module .pull-right .user-stats-med .user-stats-med-inner .assessment {
           font-family: 'Fjalla One', sans-serif;
           font-size: 1.2em;
           color: #2FD3BF;
           font-style: normal;
           line-height: 60px; }
-        /* line 92, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+        /* line 92, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
         .list-module .pull-right .user-stats-med .user-stats-med-inner .glyphicon {
           position: absolute;
           top: 10px;
           right: 10px;
           color: #2d343b; }
-        /* line 98, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+        /* line 98, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
         .list-module .pull-right .user-stats-med .user-stats-med-inner .link-helper {
           display: none;
           width: 80%;
@@ -7175,26 +7175,26 @@ header {
           left: 10%;
           right: 10%;
           transition: all 200ms ease-in; }
-    /* line 111, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+    /* line 111, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
     .list-module .pull-right:nth-of-type(odd) .user-stats-med-inner {
       background-color: #414a55; }
 
 @media only screen and (min-width: 480px) {
-  /* line 124, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+  /* line 124, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
   .list-module .pull-right .user-stats-med .user-stats-med-inner .assessment {
     font-size: 1.3em; }
  }
 
 @media only screen and (min-width: 992px) {
-  /* line 135, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+  /* line 135, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
   .list-module {
     padding-bottom: 30px; }
-    /* line 139, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/list */
+    /* line 139, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/list */
     .list-module .pull-right .user-stats-med:last-of-type {
       margin-bottom: 0; }
  }
 
-/* line 1, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/footer */
+/* line 1, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/footer */
 footer {
   padding: 35px 15px 28px 15px;
   background-color: #4C5763;
@@ -7203,11 +7203,11 @@ footer {
   font-weight: 300;
   font-style: normal;
   color: #FFFFFF; }
-  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/footer */
+  /* line 5, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/footer */
   footer img {
     margin-right: 10px;
     width: 60px; }
-  /* line 9, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-gcF799Yl.tmp/app/styles/footer */
+  /* line 9, /Users/dalyjonesmac/Projects/tiy/demi/demi-build/demi-app/tmp/tree_merger-tmp_dest_dir-5cBr644I.tmp/app/styles/footer */
   footer p {
     display: inline-block; }
 
