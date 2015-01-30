@@ -26,6 +26,27 @@ module.exports = app.toTree();
 // bootstrap
 app.import('node_modules/ember-cli-bootstrap-sass/vendor/bootstrap-sass-offical/assets/javascripts/bootstrap.js');
 app.import('node_modules/ember-cli-bootstrap-sass/vendor/bootstrap-sass-offical/assets/stylesheets/_bootstrap.scss');
+app.import('public/assets/images/andrew.jpg', {	
+  destDir: 'assets/images'
+});
+app.import('public/assets/images/dabbs.jpg', {	
+  destDir: 'assets/images'
+});
+app.import('public/assets/images/donut-chart.svg', {	
+  destDir: 'assets/images'
+});
+app.import('public/assets/images/iron-yard-logo.svg', {	
+  destDir: 'assets/images'
+});
+app.import('public/assets/images/jumboshrimp.jpg', {	
+  destDir: 'assets/images'
+});
+app.import('public/assets/images/mason.jpg', {	
+  destDir: 'assets/images'
+});
+app.import('public/assets/images/samkap.jpg', {	
+  destDir: 'assets/images'
+});
 app.import('node_modules/ember-cli-bootstrap-sass/vendor/bootstrap-sass-offical/assets/fonts/bootstrap/glyphicons-halflings-regular.eot', {	
   destDir: 'fonts'
 });
