@@ -1,0 +1,197 @@
+// ----- Profile -----
+.profile {
+	background-color: $darkblue;
+	padding: 35px 15px 35px 15px;
+	.profile-image {
+		margin-bottom: 35px;
+		padding: 0 15px 0 15px;
+		img {
+			display: block;
+	    margin: auto;
+			width: 100%;
+			max-width: 270px;
+			border-radius: 50%;
+		}
+	}
+	.profile-info {
+		position: relative;
+		margin-bottom: 35px;
+		height: 270px;
+		ul {
+			list-style: none;
+			padding-left: 0;
+			text-align: center;
+			li {
+				p {
+					padding-bottom: 2px;
+					font-size: 1.2em;
+					font-weight: 200;
+					color: darken($white, 10%);
+					a {
+						display: inline-block;
+						font-weight: 200;
+						color: darken($white, 10%);
+						text-decoration: underline;
+						cursor: pointer;
+						&:hover {
+							color: $bluegreen;
+						}
+					}
+				}
+				.title {
+					margin-bottom: 0;
+					font-size: 1em;
+					font-weight: 200;
+					color: lighten($blue, 15%);
+				}
+			}
+		}
+	}
+	.stats-wide {
+		padding-bottom: 10px;
+		// If there were to be a wide box at the bottom the last would have bottom padding removed
+		&:last-of-type {
+			padding-bottom: 0;
+		}
+		.stats-wide-inner {
+			position: relative;
+			padding: 15px;
+			height: 100px;
+			background-color: $blue;
+			transition: all 200ms ease-in;
+			&:hover {
+				background-color: darken($blue, 18%);
+				cursor: pointer;
+				.stats-content {
+					color: $bluegreen;
+				}
+				.glyphicon {
+					color: $bluegreen;
+				}
+			}
+			.stats-content {
+				margin: 0 auto;
+				display: inline-block;
+				@include secondary-text(3.8em, darken($white, 3%));
+				.stats-number {
+					display: inline-block;
+				}
+				.stats-text {
+					display: inline-block;
+					font-size: 0.38em;
+					line-height: 0.7em;
+				}
+			}
+			.glyphicon {
+				position: absolute;
+				top: 10px;
+				right: 10px;
+				font-size: 1em;
+				color: $darkblue;
+			}
+		}
+	}
+	.stats-half {
+		padding-bottom: 10px;
+		// Only the last two have padding bottom removed
+		&:nth-last-of-type(-n+2) {
+			padding-bottom: 0;
+		}
+		.stats-half-inner {
+			position: relative;
+			padding: 15px;
+			height: 75px;
+			background-color: $blue;
+			transition: all 200ms ease-in;
+			&:hover {
+				background-color: darken($blue, 18%);
+				cursor: pointer;
+				.stats-content {
+					color: $bluegreen;
+				}
+				.glyphicon {
+					color: $bluegreen;
+				}
+			}
+			.stats-content {
+				margin: 0 auto;
+				display: inline-block;
+				@include secondary-text(2.6em, darken($white, 3%));
+				.stats-number {
+					display: inline-block;
+				}
+				.stats-text {
+					display: inline-block;
+					font-size: 0.3em;
+					line-height: 0.6em;
+				}
+			}
+			.glyphicon {
+				position: absolute;
+				top: 10px;
+				right: 10px;
+				font-size: 1em;
+				color: $darkblue;
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: $screen-xs-min) {
+
+	.profile {
+		.stats-half {
+			.stats-half-inner {
+				.stats-content {
+					.stats-text {
+						font-size: 0.38em;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: $screen-sm-min) {
+
+	.profile {
+		.profile-info {
+			ul {
+				text-align: left;
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: $screen-md-min) {
+
+	.profile {
+		.profile-image, .profile-info {
+	 		margin-bottom: 0px;
+	 	}
+	 	.stats-half {
+			.stats-half-inner {
+				.stats-content {
+					.stats-text {
+						font-size: 0.36em;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: $screen-lg-min) {
+
+	.profile {
+	 	.stats-half {
+			.stats-half-inner {
+				.stats-content {
+					.stats-text {
+						font-size: 0.4em;
+					}
+				}
+			}
+		}
+	}
+}

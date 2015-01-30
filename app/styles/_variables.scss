@@ -1,0 +1,20 @@
+// ------ Variables ------
+
+// primary color
+$blue: #4C5763;
+$bluegreen: #2FD3BF;
+$green: #3EC173;
+$yellow: #E5BD41;
+$orange: #E0813B;
+$red: #C64C46;
+
+// secondary color
+$darkblue: darken($blue, 14%);
+$bluegrey: #485561; // (grader directory)
+$lightblue: #DFE9ED; // (light version bg color)
+$lightbluegrey: #F0F7F6; // (vanilla button color)
+$white: #FFFFFF; // (standard white for bgs and whatnots)
+
+// type
+$primary-typeface: 'Source Sans Pro', sans-serif;
+$secondary-typeface: 'Fjalla One', sans-serif;

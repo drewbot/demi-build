@@ -1,0 +1,12 @@
+footer {
+  padding: 35px 15px 28px 15px;
+  background-color: $blue;
+  @include primary-text(1em, 300, normal, $white);
+  img {
+    margin-right: 10px;
+    width: 60px;
+  }
+  p {
+  	display: inline-block;
+  }
+}

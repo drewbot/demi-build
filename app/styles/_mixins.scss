@@ -1,0 +1,86 @@
+// ------ Mixins ------
+
+// Text
+@mixin primary-text($size, $weight, $style, $color) {
+    font-family: $primary-typeface;
+    font-size: $size;
+    font-weight: $weight;
+    font-style: $style;
+    color: $color;
+}
+
+@mixin secondary-text($size, $color) {
+    font-family: $secondary-typeface;
+    font-size: $size;
+    color: $color;
+}
+
+// Button
+@mixin primary-button($bg-color, $color, $padding-t, $padding-b) {
+    padding: $padding-t 0 $padding-b 0;
+    height: 40px;
+    width: 100%;
+    background-color: $bg-color;
+    color: $color;
+    text-align: center;
+    letter-spacing: 0.04em;
+    border: 1px solid darken($bg-color, 7%);
+    border-bottom: 3px solid darken($bg-color, 10%);
+    outline: none;
+    @include transition(all 80ms ease-in);
+    &:hover {
+        background-color: lighten($bg-color, 5%);
+        border-color: darken($bg-color, 10%);
+        border-bottom-color: darken($bg-color, 15%);
+    }
+    &:active {
+        margin-top: 2px;
+        border-width: 1px;
+        height: 38px;
+    }
+}
+
+@mixin header-button($bg-color, $color) {
+    padding: 36px 10px 36px 10px;
+    height: 110px;
+    // width: 100%;
+    background-color: $bg-color;
+    @include secondary-text(1.1em, $color);
+    text-align: center;
+    border: none;
+    outline: none;
+    @include transition(all 100ms ease-in);
+    &:hover {
+        background-color: $darkblue;
+        color: $bluegreen;
+        border-bottom: 3px solid $bluegreen;
+    }
+    &:active {
+
+    }
+    span {
+        margin-right: 10px;
+    }
+}
+
+// Bar Graph Bar
+@mixin bar($color) {
+	height: 34px;
+	div {
+        // bar
+		&:first-of-type {
+			display: inline-block;
+			height: 34px;
+			background-color: darken($color, 5%);
+			border-right: 3px solid lighten($color, 10%);
+		}
+        // text
+		&:nth-of-type(2) {
+			display: inline-block;
+			padding: 7px 0 30px 10px;
+			height: 34px;
+			vertical-align: top;
+			font-weight: 200;
+		}
+	}
+}

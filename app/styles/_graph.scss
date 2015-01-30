@@ -1,0 +1,157 @@
+// ----- Graph Section -----
+.graph-1 {
+	padding: 35px 15px 5px 15px;
+	background-color: $darkblue;
+	.graph-key {
+		color: $white;
+		.graph-key-item {
+			padding-bottom: 10px;
+			&:first-of-type {
+				.key-item-swatch {
+					background-color: $red;
+				}
+			}
+			&:nth-of-type(2) {
+				.key-item-swatch {
+					background-color: $orange;
+				}
+			}
+			&:nth-of-type(3) {
+				.key-item-swatch {
+					background-color: $yellow;
+				}
+			}
+			&:nth-of-type(4) {
+				.key-item-swatch {
+					background-color: $green;
+				}
+			}
+			&:nth-of-type(5) {
+				.key-item-swatch {
+					background-color: $bluegreen;
+				}
+			}
+			.key-item-swatch {
+				display: inline-block;
+				margin-right: 5px;
+				width: 12px;
+				height: 12px;
+			}
+			p {
+				display: inline-block;
+				@include primary-text(0.7em, 200, light, $white);
+			}
+		}
+	}
+	.graph-item {
+		&:nth-of-type(odd) {
+			.user-card-small, .user-stats-small, .user-graph .user-graph-inner {
+				background-color: darken($blue, 5%);
+			}
+		}
+		.user-card-small {
+			margin-bottom: 10px;
+			padding: 25px;
+			height: 230px;
+			background-color: $blue;
+			color: $white;
+			font-weight: 200;
+			text-align: center;
+			line-height: 1.2em;
+			img {
+				display: inline-block;
+		    margin: auto;
+		    margin: 0 0 16px 0;
+				width: 100%;
+				max-width: 126px;
+				border-radius: 50%;
+			}
+			.user-name {
+				font-size: 1.2em;
+				font-weight: 400;
+			}
+			.user-type {
+
+			}
+		}
+		.user-stats-small {
+			margin-bottom: 10px;
+			padding: 15px;
+			height: 110px;
+			background-color: $blue;
+			color: $white;
+			text-align: center;
+			line-height: 1.6em;
+			// The last of these in a column will have no bottom padding
+			&:last-of-type {
+				margin-bottom: 0;
+			}
+			.user-stats-title {
+				font-weight: 200;
+			}
+			.user-stats-count {
+				@include secondary-text(1.4em, $white);
+			}
+		}
+		.user-graph {
+			margin-bottom: 30px;
+			.user-graph-inner {
+				padding: 30px 15px 30px 0;
+				height: 230px;
+				background-color: $blue;
+				color: $white;
+				.bar {
+					&:first-of-type {
+						@include bar($bluegreen);
+					}
+					&:nth-of-type(2) {
+						@include bar($green);
+					}
+					&:nth-of-type(3) {
+						@include bar($yellow);
+					}
+					&:nth-of-type(4) {
+						@include bar($orange);
+					}
+					&:nth-of-type(5) {
+						@include bar($red);
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: $screen-xs-min) {
+	.graph-1 {
+		.graph-key {
+			.graph-key-item {
+				p {
+					font-size: 0.9em;
+				}
+			}
+		}
+		.graph-item {
+			.user-stats-small {
+				padding: 30px 15px 15px 15px;
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: $screen-md-min) {
+	.graph-1 {
+		.graph-key {
+			.graph-key-item {
+				p {
+					font-size: 1em;
+				}
+			}
+		}
+		.graph-item {
+			.user-stats-small {
+				padding: 15px;
+			}
+		}
+	}
+}

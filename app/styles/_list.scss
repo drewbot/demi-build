@@ -1,0 +1,145 @@
+// ----- List Section 1 -----
+.list-module {
+	padding: 35px 15px 5px 15px;
+	background-color: $darkblue;
+	.user-card-med {
+		padding-bottom: 30px;
+		.user-card-med-inner {
+			padding: 30px;
+			height: 512px;
+			background-color: $blue;
+			color: $white;
+			font-weight: 200;
+			text-align: center;
+			line-height: 1.2em;
+			img {
+				display: inline-block;
+		    margin: auto;
+		    margin: 0 0 16px 0;
+				width: 100%;
+				max-width: 180px;
+				border-radius: 50%;
+			}
+			.user-name {
+				font-size: 1.2em;
+				font-weight: 400;
+			}
+			.donut-chart {
+				position: relative;
+				margin-top: 15px;
+				.completion-percent {
+					position: absolute;
+					margin: auto;
+					top: 0;
+					right: 0;
+					bottom: 0;
+					left: 0;
+					width: 90px;
+					height: 80px;
+					text-align: center;
+					p:first-of-type {
+						margin-bottom: 5px;
+						@include secondary-text(1.4em, $white);
+					}
+				}
+			}
+		}
+	}
+	.pull-right {
+		padding: 0;
+		.user-stats-med {
+			padding-bottom: 10px;
+			&:last-of-type {
+				margin-bottom: 20px;
+				.user-stats-med-inner {
+					&:hover {
+						// padding-left: 19px;
+						background-color: darken($blue, 18%);
+						cursor: pointer;
+						p {
+							color: $bluegreen;
+						}
+						.glyphicon {
+							color: $bluegreen;
+						}
+						.link-helper {
+							display: inline-block;
+						}
+					}
+				}
+			}
+			.user-stats-med-inner {
+				position: relative;
+				padding: 20px 15px 20px 15px;
+				height: 100px;
+				background-color: $blue;
+				// font-size: 0.8em;
+				font-weight: 200;
+				font-style: italic;
+				color: $white;
+				text-align: center;
+				line-height: 1.6em;
+				transition: all 200ms ease-in;
+				.assignment {
+					font-style: normal;
+					font-size: 1.2em;
+				}
+				.assessment {
+					@include secondary-text(1.2em, $bluegreen);
+					font-style: normal;
+					line-height: 60px;
+				}
+				.glyphicon {
+					position: absolute;
+					top: 10px;
+					right: 10px;
+					color: $darkblue;
+				}
+				.link-helper {
+					display: none;
+					width: 80%;
+					position: absolute;
+					top: 65px;
+					left: 10%;
+					right: 10%;
+					transition: all 200ms ease-in;
+				}
+			}
+		}
+		// Every other list row has slightly darker background
+		&:nth-of-type(odd) {
+			.user-stats-med-inner {
+				background-color: darken($blue, 5%);
+			}
+		}
+	}
+}
+
+// below 480
+@media only screen and (min-width: $screen-xs-min) {
+	.list-module {
+		.pull-right {
+			.user-stats-med {
+				.user-stats-med-inner {
+					.assessment {
+						font-size: 1.3em;
+					}
+				}
+			}
+		}
+	}
+}
+
+// below 992
+@media only screen and (min-width: $screen-md-min) {
+	.list-module {
+		padding-bottom: 30px;
+		.pull-right {
+			.user-stats-med {
+				&:last-of-type {
+					margin-bottom: 0;
+				}
+			}
+		}
+	}
+}
